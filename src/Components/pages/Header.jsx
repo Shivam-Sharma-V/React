@@ -18,7 +18,7 @@ const Header = () => {
                             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                                     <li className="nav-item ">
-                                        <Link className="nav-link " aria-current="page" to="/"> <i className="fa-solid fa-house-user"></i>HOME</Link>
+                                        <Link className="nav-link " aria-current="page" to="/React"> <i className="fa-solid fa-house-user"></i>HOME</Link>
                                     </li>
                                     <li className="nav-item ">
                                         <Link className="nav-link " aria-current="page" to="/ourproduct"><i className="fa-brands fa-product-hunt"></i>PRODUCT</Link>
