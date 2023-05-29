@@ -1,5 +1,4 @@
 import React from 'react';
-
 const OurProduct = () => {
     return (
         <div className='container-fluid  pb-5' style={{ "background": "#f1f3f4" }}>
@@ -69,5 +68,4 @@ const OurProduct = () => {
         </div>
     );
 };
-
 export default OurProduct;
